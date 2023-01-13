@@ -43,30 +43,30 @@ This means to find the best possible price you should use an XGBoost. For you, t
 
 #### Acknowledgements
 ***
-*https://github.com/python/cpython/blob/3.10/Lib/warnings.py  
-*https://github.com/python/cpython/blob/3.10/Lib/zipfile.py  
-*https://jupyter.org/  
-*https://matplotlib.org/  
-*https://matplotlib.org/  
-*https://numpy.org/  
-*https://pandas.pydata.org/  
-*https://plotly.com/python/  
-*https://pypi.org/project/tabulate/  
-*https://scipy.org/  
-*https://seaborn.pydata.org/ 
-*https://www.statsmodels.org/stable/index.html
-*https://pypi.org/project/wordcloud/
-*https://xgboost.readthedocs.io/en/latest/python/python_api.html
-*https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
-*https://xgboost.readthedocs.io/en/stable/
-*https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html
-*https://snyk.io/advisor/python/xgboost/functions/xgboost.plot_importance
-*https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.resample.html
-*https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html
-*https://scikit-learn.org/stable/modules/generated/sklearn.tree.plot_tree.html
-*https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
-*https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html
+- https://github.com/python/cpython/blob/3.10/Lib/warnings.py  
+- https://github.com/python/cpython/blob/3.10/Lib/zipfile.py  
+- https://jupyter.org/  
+- https://matplotlib.org/  
+- https://matplotlib.org/  
+- https://numpy.org/  
+- https://pandas.pydata.org/  
+- https://plotly.com/python/  
+- https://pypi.org/project/tabulate/  
+- https://scipy.org/  
+- https://seaborn.pydata.org/ 
+- https://www.statsmodels.org/stable/index.html
+- https://pypi.org/project/wordcloud/
+- https://xgboost.readthedocs.io/en/latest/python/python_api.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
+- https://xgboost.readthedocs.io/en/stable/
+- https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html
+- https://snyk.io/advisor/python/xgboost/functions/xgboost.plot_importance
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.resample.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.tree.plot_tree.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html
 
-*[Panda](https://www.publicdomainpictures.net/en/view-image.php?image=45712&picture=panda-bear) - Ronald Carson
+- [Panda](https://www.publicdomainpictures.net/en/view-image.php?image=45712&picture=panda-bear) - Ronald Carson
 
 [Python 3.9.12](https://www.python.org/) Copyright ©2001-2022. [Python Software Foundation](https://www.python.org/psf-landing/)
