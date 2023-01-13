@@ -6,7 +6,7 @@ Contributor: Colton Lineman
 
 ![Money](https://media.altpress.com/uploads/2018/06/make_money_gif.gif)
 
-All final models are including the [presentation](https://github.com/cLineman/Rental-Property-Prediction-Model/blob/main/Final%20Power%20Point.pdf) and the [Juptyer notebook](https://github.com/cLineman/Rental-Property-Prediction-Model/blob/main/Final%20Notebook.ipynb).
+All final models are including the [presentation](https://github.com/cLineman/Rental-Property-Prediction-Model/blob/main/Final%20Power%20Point.pdf) and the [Juptyer notebook](https://github.com/cLineman/Rental-Property-Prediction-Model/blob/main/Final%20Notebook.ipynb). For [personal notebooks](https://github.com/cLineman/Rental-Property-Prediction-Model/tree/main/Working%20Notebooks) and the [data set](https://github.com/cLineman/Rental-Property-Prediction-Model/tree/main/Dataset)
 
 
 ## Project Description
@@ -28,7 +28,9 @@ https://github.com/cLineman/Rental-Property-Prediction-Model/blob/main/Final%20P
 
 ### Data Interpretation and Analysis
 ***
-I preformed two prediction models with the point of focus being price. In doing this I used feature engineering to help increase the acracy of the models. I made multiple visualizations to get a more general understanding of the data and how the data could affect my models.
+I started the process by cleaning a data set I found on kaggle. I then ran some visulaizations to get an understanding of the data and see if there are any biases I should understand before working with the models.
+
+I then preformed two prediction models (Decision Tree and XGBoost) with the point of focus being price. In doing this I used feature engineering to help increase the accuracy of the models.
 
 ### Findings and Recommendations
 ***
